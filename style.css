@@ -7,10 +7,12 @@ body{
 	font-weight: lighter;
 	width: 700px;
 	margin: 30px auto;
+  text-align: center;
 }
 h1,h2,h3{
 	font-family: Century Gothic;
 	color: black;
+  text-align: center;
 }
 h1{
 	font-size: 32px;
